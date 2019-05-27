@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\obj\Debug\Calculator_BMI2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\obj\Debug\Calculator_BMI2.Form1.resources
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\obj\Debug\Calculator_BMI2.Properties.Resources.resources
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\obj\Debug\Calculator_BMI2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\obj\Debug\Calculator_BMI2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\bin\Debug\Calculator_BMI2.exe.config
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\bin\Debug\Calculator_BMI2.exe
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\bin\Debug\Calculator_BMI2.pdb
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\obj\Debug\Calculator_BMI2.exe
+C:\Users\Admin\source\repos\Calculator_BMI2\Calculator_BMI2\obj\Debug\Calculator_BMI2.pdb
